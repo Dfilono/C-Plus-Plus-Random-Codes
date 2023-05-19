@@ -1,0 +1,120 @@
+﻿  DetectCollisions.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(12,16): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(13,17): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(30,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(29,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(33,39): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(40,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(41,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\DetectCollisions.cpp(47,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Draw.cpp
+  Engine.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Engine.cpp(6,37): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Engine.cpp(7,37): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Engine.cpp(9,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Engine.cpp(9,31): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Input.cpp
+  LoadLevel.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\LoadLevel.cpp(21,37): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\LoadLevel.cpp(22,34): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  main.cpp
+  Particle.cpp
+  ParticleSystem.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\ParticleSystem.cpp(13,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PopulateEmitters.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(7,22): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(16,61): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(16,50): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(16,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(16,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(17,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(17,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(20,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(21,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(22,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\PopulateEmitters.cpp(23,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Update.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Update.cpp(9,34): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Update.cpp(10,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Generating Code...
+  Coop-Puzzle-Platformer.vcxproj -> C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Coop-Puzzle-Platformer\Debug\Coop-Puzzle-Platformer.exe

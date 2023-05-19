@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Coop-Puzzle-Platformer", "Coop-Puzzle-Platformer.vcxproj", "{DD6FA288-CF5C-4826-BC64-6B73FA18021F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Debug|Win32.Build.0 = Debug|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Debug|x64.ActiveCfg = Debug|x64
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Debug|x64.Build.0 = Debug|x64
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Debug|x86.Build.0 = Debug|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Release|Win32.ActiveCfg = Release|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Release|Win32.Build.0 = Release|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Release|x64.ActiveCfg = Release|x64
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Release|x64.Build.0 = Release|x64
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Release|x86.ActiveCfg = Release|Win32
+		{DD6FA288-CF5C-4826-BC64-6B73FA18021F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6857FB5-63AD-4CB5-A78F-648460B11971}
+	EndGlobalSection
+EndGlobal
