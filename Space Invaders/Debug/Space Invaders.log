@@ -1,0 +1,15 @@
+﻿  GameOverUIPanel.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(6,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(6,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(7,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(8,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(9,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(24,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(24,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(25,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameOverUIPanel.cpp(25,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameUIPanel.cpp
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameUIPanel.cpp(8,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\GameUIPanel.cpp(8,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Space Invaders.vcxproj -> C:\Users\filon\OneDrive\Desktop\Coding Projects\C Plus Plus\Space Invaders\Debug\Space Invaders.exe
